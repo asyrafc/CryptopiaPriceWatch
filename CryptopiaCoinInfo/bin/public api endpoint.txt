@@ -1,0 +1,1 @@
+https://www.cryptopia.co.nz/api/GetMarketOrders/COLX_BTC/50

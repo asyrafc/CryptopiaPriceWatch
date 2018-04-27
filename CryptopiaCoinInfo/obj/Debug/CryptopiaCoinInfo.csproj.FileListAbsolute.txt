@@ -1,0 +1,25 @@
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.Form1.resources
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.Properties.Resources.resources
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.csproj.GenerateResource.cache
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\bin\Debug\CryptopiaCoinInfo.exe.config
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\bin\Debug\CryptopiaCoinInfo.exe
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\bin\Debug\CryptopiaCoinInfo.pdb
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.exe
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.pdb
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\source\repos\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.csproj.CopyComplete
+C:\Users\Ghostbyte\Documents\Visual Studio 2017\Projects\CryptopiaCoinInfo\CryptopiaCoinInfo\bin\Debug\CryptopiaCoinInfo.exe.config
+C:\Users\Ghostbyte\Documents\Visual Studio 2017\Projects\CryptopiaCoinInfo\CryptopiaCoinInfo\bin\Debug\CryptopiaCoinInfo.exe
+C:\Users\Ghostbyte\Documents\Visual Studio 2017\Projects\CryptopiaCoinInfo\CryptopiaCoinInfo\bin\Debug\CryptopiaCoinInfo.pdb
+C:\Users\Ghostbyte\Documents\Visual Studio 2017\Projects\CryptopiaCoinInfo\CryptopiaCoinInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ghostbyte\Documents\Visual Studio 2017\Projects\CryptopiaCoinInfo\CryptopiaCoinInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ghostbyte\Documents\Visual Studio 2017\Projects\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.csprojResolveAssemblyReference.cache
+C:\Users\Ghostbyte\Documents\Visual Studio 2017\Projects\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.Form1.resources
+C:\Users\Ghostbyte\Documents\Visual Studio 2017\Projects\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.Properties.Resources.resources
+C:\Users\Ghostbyte\Documents\Visual Studio 2017\Projects\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.csproj.GenerateResource.Cache
+C:\Users\Ghostbyte\Documents\Visual Studio 2017\Projects\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.csproj.CoreCompileInputs.cache
+C:\Users\Ghostbyte\Documents\Visual Studio 2017\Projects\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.exe
+C:\Users\Ghostbyte\Documents\Visual Studio 2017\Projects\CryptopiaCoinInfo\CryptopiaCoinInfo\obj\Debug\CryptopiaCoinInfo.pdb
