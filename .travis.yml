@@ -1,3 +1,2 @@
 language: csharp
 solution: CryptopiaCoinInfo.sln
-script: ./build.sh
